@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58829515564",
+    "project_id": "food-party-95fe4",
+    "storage_bucket": "food-party-95fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58829515564:android:d5545a3579332ec0f29a89",
+        "android_client_info": {
+          "package_name": "com.starvision.foodparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58829515564-cnsfvprjmeq0liqonj5obd5dr88c5cc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3WHYYSPQXUMubeFTFK7mIoiQZLyXD80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58829515564-cnsfvprjmeq0liqonj5obd5dr88c5cc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
